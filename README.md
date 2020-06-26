@@ -104,7 +104,157 @@ Here is the list of deliverables for the analysis of the school district:
  
  
       ![school type](https://user-images.githubusercontent.com/65969608/85875814-6d034980-b79a-11ea-99e0-8fe9f6e94012.png)
+      
+      
+      
+  
+  
+  
+  # Challenge:
+  
+  
+   
+   The goals of this challenge:
+   * Correct the students' names so there are no professional prefixes or suffixes.
+   
+   
+   * Replace the reading and math scores for ninth graders at Thomas High School with NaN.
+   
+   * Recreate the district and school summary DataFrames.
+   
+        How is the district summary affected?
+        
+        
+        
+        How is the school summary affected?
+        
+        
+   * Recalculate the high- and low-performing schools.
+   
+   
+        How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance, relative to the other schools?
+        
+        
+   * Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
+   
+   
+        How does replacing the ninth-grade scores affect the following?
+        
+        
+        Math and Reading Scores by Grade.
+        
+        
+        Scores by School Spending.
+        
+        
+        Scores by School Size.
+        
+        
+        Scores by School Type
 
 
 
  
+ # Summary For Challenge:
+ 
+ 
+ 
+   * Correct the students' names so there are no professional prefixes or suffixes:
+   
+   
+   ![remove pre](https://user-images.githubusercontent.com/65969608/85878805-ea30bd80-b79e-11ea-8127-cfd21c247f06.png)
+   
+   
+   * Replace the reading and math scores for ninth graders at Thomas High School with NaN:
+   
+   ![9th Nan](https://user-images.githubusercontent.com/65969608/85878875-046a9b80-b79f-11ea-9f7b-786adee41c8a.png)
+   
+   
+   * Recreate the district and school summary DataFrames:
+   
+       How is the district summary affected?
+       
+        ![district summary](https://user-images.githubusercontent.com/65969608/85879042-485da080-b79f-11ea-8bd8-e6037ed2d893.png)
+       
+       
+       
+       How is the school summary affected?
+       
+       
+        ![school summary](https://user-images.githubusercontent.com/65969608/85879113-662b0580-b79f-11ea-867e-93e61df0fb12.png)
+        
+        
+        
+* Recalculate the high- and low-performing schools:
+     
+     
+     High Performing Schools:
+          
+          
+     ![top five school](https://user-images.githubusercontent.com/65969608/85879273-b1ddaf00-b79f-11ea-9062-ab525a96923a.png)
+          
+          
+     Low Performing Schools:
+          
+          
+     ![bottom five](https://user-images.githubusercontent.com/65969608/85879339-cde15080-b79f-11ea-951a-056f690679b9.png)
+          
+          
+* Recalculate the scores by grade, scores by school spending, scores by school size, and scores by school type.
+   
+                   
+                   
+     Math Score for all Grade:
+          
+          
+          
+     ![math for all std](https://user-images.githubusercontent.com/65969608/85879562-38928c00-b7a0-11ea-8467-cf02d9c871cb.png)
+          
+          
+     Reading Score for all Grade:
+          
+          
+     ![math for all std](https://user-images.githubusercontent.com/65969608/85879562-38928c00-b7a0-11ea-8467-cf02d9c871cb.png)
+          
+          
+     Scores by School Spending:
+          
+          
+     ![school per student](https://user-images.githubusercontent.com/65969608/85880185-341aa300-b7a1-11ea-94bf-fd6b558e3fe8.png)
+          
+          
+     Scores by School Size:
+          
+     ![on school size](https://user-images.githubusercontent.com/65969608/85880297-64624180-b7a1-11ea-8d9d-75f4bf74d0af.png)
+          
+     Scores by School Type:
+          
+     ![school type](https://user-images.githubusercontent.com/65969608/85880388-8b207800-b7a1-11ea-9cc8-4b38dedf2a0a.png)
+
+          
+          
+          
+          
+          
+
+
+          
+          
+          
+          
+          
+
+
+
+
+       
+       
+       
+
+   
+   
+   
+   
+   
+   
+   

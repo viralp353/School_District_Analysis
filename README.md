@@ -238,7 +238,7 @@ Here is the list of deliverables for the analysis of the school district:
      
           
           
-     Scores by School Spending: After Recreate a School Spending,It was affcted only on Thomas High School.Everything chnaged in Thomas HighSchool.
+     Scores by School Spending: After Recreate a School Spending,It was affected only on Thomas High School.Everything chnaged in Thomas HighSchool.
           
           
      ![school per student](https://user-images.githubusercontent.com/65969608/85880185-341aa300-b7a1-11ea-94bf-fd6b558e3fe8.png)
@@ -247,13 +247,13 @@ Here is the list of deliverables for the analysis of the school district:
      
           
           
-     Scores by School Size:After Recreate a School size,It was affcted on Medium size(1000-2000) like in % Passing math,%Passing Reading and  % Overall passing.
+     Scores by School Size:After Recreate a School size,It was affected on Medium size(1000-2000) like in % Passing math,%Passing Reading and  % Overall passing.
           
      ![on school size](https://user-images.githubusercontent.com/65969608/85880297-64624180-b7a1-11ea-8d9d-75f4bf74d0af.png)
      
      
           
-     Scores by School Type:After Recreate as School type, It was affcted on Charter type like in  % Passing math,%Passing Reading and  % Overall passing.
+     Scores by School Type:After Recreate as School type, It was affected on Charter type like in  % Passing math,%Passing Reading and  % Overall passing.
           
      ![school type](https://user-images.githubusercontent.com/65969608/85880388-8b207800-b7a1-11ea-9cc8-4b38dedf2a0a.png)
      
